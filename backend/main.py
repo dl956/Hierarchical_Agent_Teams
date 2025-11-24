@@ -47,7 +47,7 @@ app.add_middleware(
 async def ws_stream(websocket: WebSocket):
     await websocket.accept()
     try:
-        # 等待前端发来的 {"query": "...", "graph": "..."}
+        # wait from frontend {"query": "...", "graph": "..."}
         data = await websocket.receive_json()
         query = data.get("query", "")
         graph_name = data.get("graph", "supervisor")
