@@ -116,4 +116,15 @@ MIT License
 
 ---
 
+## Demo Video
+
+You can watch the demonstration video below:
+
+<video src="https://github.com/dl956/Hierarchical_Agent_Teams/raw/main/20251124-113852.mp4" controls width="700">
+Your browser does not support the video tag.
+</video>
+
+Or [download and view directly](https://github.com/dl956/Hierarchical_Agent_Teams/raw/main/20251124-113852.mp4).
+
+
 For more details and future updates, see [GitHub repository](https://github.com/dl956/Hierarchical_Agent_Teams).
