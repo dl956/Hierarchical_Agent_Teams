@@ -2,6 +2,17 @@
 This project is a multi-agent research and writing system built with LangGraph and FastAPI. It organizes specialized agents—such as web search, web scraping, note taking, document writing, and chart generation—into teams managed by supervisor nodes. The system can receive user queries via a streaming WebSocket API and coordinates agent actions.
 
 
+## Screenshots
+
+Main interface:
+
+![Main UI](https://github.com/dl956/Hierarchical_Agent_Teams/raw/main/screenshot2.png)
+
+Research result example:
+
+![Research Result](https://github.com/dl956/Hierarchical_Agent_Teams/raw/main/screenshot.png)
+
+
 ## Overview
 
 Hierarchical Agent Teams is an end-to-end research and writing automation system  https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/
